@@ -1,0 +1,1 @@
+print("Jeevitha","Murugan",sep = '\n') 
